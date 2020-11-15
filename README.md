@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello, names Tyler.
+### Your time is precious, I understand that. So I'll treat this introduction like a speed date.
 
-<!--
-**TylerBurnett/TylerBurnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - I am an undergrad bachelors student at Griffith majoring in software development.
+ - I am currently working for Claim in here in Brisbane as a full-stack front end developer.
+ - This career path is everything I've ever wanted, I love my job.
+ - I want to diversify, I refuse to stick to one path for the rest of my career.
+ - I have a strong focus on web development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some statistics about my development
+![My github stats](https://github-readme-stats.vercel.app/api?username=TylerBurnett&show_icons=true&theme=synthwave&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerBurnett&theme=synthwave&layout=compact)](https://github.com/TylerBurnett/github-readme-stats)
